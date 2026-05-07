@@ -6,7 +6,7 @@
 
 ---
 
-![Uploading image.png…]()
+<img width="1280" height="1131" alt="demo" src="https://github.com/user-attachments/assets/97c5d271-ae83-47d3-bea3-0aa2a19c54a0" />
 
 
 ## Запуск
